@@ -1,0 +1,21 @@
+<title>wolfOS</title>
+
+<h1>Secure DataVault</h1>
+
+<p>Welcome, <b>Christian</b>.</p>
+<p>We've been keeping your sensitive data secure. View it below:</p>
+
+<hr>
+
+<a href="./journal">journal.txt</a>
+<br>
+My journal from when I was 14
+
+<p> </p>
+
+<a href="./coupons">coupons.c</a>
+<br>
+Cryptographically secure coupons for my comedy products
+
+<br>
+

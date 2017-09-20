@@ -1,0 +1,37 @@
+<title>wolfOS</title>
+
+<h1>Secure DataVault</h1>
+
+<p>Vuln-tastic v1.4 activated</p>
+
+<p><tt>PROBING SYSTEM..........................</tt></pp>
+<p><tt>COMPLETE</tt></pp>
+
+
+<p>The probe has revealed the following vulnerabilities:</p>
+<p> </p>
+
+<b>Buffer overflow in authentication module</b>
+<br>
+By providing login credentials that are too long, you may be able to spoof an authentication.
+<br>
+
+<p> </p>
+
+<b>No throttling on login attempts</b>
+<br>
+No maximum login attempts before account lock. By generating millions of guesses, you may be able to gain access.
+<br>
+
+
+<hr>
+<p>#### CYBER HACKING TOOLS ####</p>
+<p> </p>
+
+<a href="./user=christian&pass=hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh">FlowComa 0.9b</a>
+<br>
+Exploit buffer overflow
+<p> </p>
+<a href="./bruteforce">B1c3p v0.77.1</a>
+<br>
+Brute-force login

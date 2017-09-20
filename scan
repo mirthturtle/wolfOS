@@ -1,0 +1,29 @@
+<title>wolfOS</title>
+
+<h1>ScanFriend v0.8.4 activated</h1>
+
+<p><tt>SCANNING LOCAL SYSTEM..................................</tt></p>
+
+<p><tt>Scan complete.</tt> The following services are currently running on this cyberterminal:</p>
+
+<hr>
+
+<p> </p>
+<br>
+<a href="./gallery/index">PictureLook 800</a>
+<br>
+An image viewer application, standard on all wolfOS cyberterminals.
+
+<br>
+<p> </p>
+
+<a href="./email">"Lettrograd" Mail</a>
+<br>
+Soviet email client. Auto login with stored credentials.
+
+<br>
+<p> </p>
+
+<a href="./datavault/login">Secure DataVault</a>
+<br>
+Built to be impenetrable by BitByte Cyber Solutions, the DataVault R-80512 is the safest place for your data.
