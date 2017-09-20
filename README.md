@@ -1,4 +1,4 @@
-# Christian DeWolf's DATAVAULT
+# wolfOS
 
 This is a small game made for Hal-Con 2017. It's meant to be played in the Lynx browser on a Raspberry Pi:
 
