@@ -10,6 +10,8 @@ Install Nginx or the webserver of your choice and put all game files in `/var/ww
 
 Press `o` to go into the options and set the User Mode to `Advanced` to get rid of the navigation tips at the bottom of the screen. Accept settings.
 
+You may need to set your Nginx default MIME type to `text/html` so it renders the pages without extensions.
+
 -------------------------------------------
 
 Contributions from Bruce Delo & Dawn Davis.
