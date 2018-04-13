@@ -12,4 +12,4 @@ Press `o` to go into the options and set the User Mode to `Advanced` to get rid 
 
 -------------------------------------------
 
-Contributions from Bruce Delo & Dawn Davis.
+With contributions from [Michelle Proulx](https://michelleproulx.com/), [Bruce Delo](https://flyknifecomics.com) & [Dawn Davis](http://www.playerprophet.com).
