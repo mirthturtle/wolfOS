@@ -2,20 +2,20 @@
 
 <h1>Exhibitor Management Console</h1>
 
-<p>URL_GUESSER_4000 initiated</p>
+<p><tt>$ ruby url_guesser.rb</tt></p>
 
 <p><em>document_id</em> = 0</p>
 result = <tt>GET</tt> "wolfOS/secure/#{<em>document_id</em>}"
 <br />
 if result <em>==</em> <b>404</b>
 <br />
-<pre>  </pre><em>document_id</em> ++
+<em>document_id</em> ++
 <br />
-<pre>  </pre>loop
+loop
 <br />
 else
 <br />
-<pre>  </pre><tt>return</tt> result
+<tt>return</tt> result
 <br />
 end
 
