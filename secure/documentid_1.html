@@ -6,18 +6,26 @@
 
 <p><em>document_id</em> = 0</p>
 result = <tt>GET</tt> "wolfOS/secure/#{<em>document_id</em>}"
-if result <em>!=</em> <b>404</b>
-  <em>document_id</em> ++
-  loop
+<br />
+if result <em>==</em> <b>404</b>
+<br />
+<pre>  </pre><em>document_id</em> ++
+<br />
+<pre>  </pre>loop
+<br />
 else
-  <tt>return</tt> result
+<br />
+<pre>  </pre><tt>return</tt> result
+<br />
 end
+
+<p><tt>RUNNING.............</tt></p>
 
 <p><b>0</b> RESULTS RETURNED</p>
 
-<p><tt>SYSTEM TOO SECURE</tt></p>
+<p><b>SYSTEM SECURE</b></p>
 
 <p> </p>  <!-- LINEBREAK -->
 
-<a href="./login.html#relevant">Back</a>
+<a href="./probe.html#relevant">Back</a>
 
