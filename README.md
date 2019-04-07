@@ -4,7 +4,7 @@
 
 Originally made for Hal-Con 2017, this version has been updated for the Spring Geequinox 2018. It's meant to be played in the Lynx browser on a Raspberry Pi:
 
-`sudo apt-get lynx`
+`sudo apt-get install lynx`
 
 Install Nginx or the webserver of your choice and clone into in `/var/www/html`. Start the server, then run
 
