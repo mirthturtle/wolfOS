@@ -1,16 +1,14 @@
-# wolfOS 1.5
+# wolfOS (legacy) - exhibitor operating system
 
 ![wolfOS in operation](wolfos-title.jpg "wolfOS 1.5 in operation")
 
-Originally made for Hal-Con 2017, this version has been updated for the Spring Geequinox 2018. It's meant to be played in the Lynx browser on a Raspberry Pi:
+Originally made for Hal-Con 2017, this version was updated for Spring Geequinox 2018. Played in the Lynx browser:
 
 `sudo apt-get install lynx`
 
-Install Nginx or the webserver of your choice and clone into in `/var/www/html`. Start the server, then run
+Install Nginx or the webserver of your choice and clone repo into `/var/www/html`. Start the server then run: `lynx localhost/wolfOS-legacy`
 
-`lynx localhost/wolfOS`
-
-Press `o` to go into the options and set the User Mode to `Advanced` to get rid of the navigation tips at the bottom of the screen. Accept settings.
+Press `o` for options; set User Mode to `Advanced` to get rid of navigation tips.
 
 -------------------------------------------
 
