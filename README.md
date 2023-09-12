@@ -11,31 +11,35 @@ Install on a Raspberry Pi for the classic convention experience, or emulate on a
 Clone the repo:
 `git clone https://github.com/mirthturtle/wolfOS-legacy.git`
 
-### Dependencies – MacOS
+### MacOS
 Install [Homebrew](https://brew.sh/)
 
 Install Lynx browser:
 `brew install lynx`
 
-### Dependencies – Raspberry Pi
+### Raspberry Pi
 
 Install Lynx browser:
 `sudo apt-get install lynx`
 
+
 ## Running
 
 Run wolfOS:
-`cd wolfos-legacy`
-`lynx index.html`
+`lynx wolfos-legacy/index.html`
 
 
 ## Improve the Lynx UI for better user experience at exhibitions
 
-To shrink the footer nav bar from 3 lines to 1:
+To modify the Raspberry Pi's font size to fit your screen size:
+`sudo dpkg-reconfigure console-setup`
+and follow the instructions.
+
+To shrink the Lynx footer nav bar from 3 lines to 1:
 - Press `o` for options
 - Set the User Mode to `Advanced` and Accept Changes.
 
-To remove the final line of the footer bar:
+To remove the final line of the Lynx footer bar:
 - Cover with a piece of tape or small sign
 
 -------------------------------------------
