@@ -12,26 +12,22 @@ Clone the repo:
 `git clone https://github.com/mirthturtle/wolfOS-legacy.git`
 
 ### MacOS
-Install [Homebrew](https://brew.sh/)
-
-Install Lynx browser:
-`brew install lynx`
+- Install [Homebrew](https://brew.sh/)
+- Install Lynx browser: `brew install lynx`
 
 ### Raspberry Pi
+- Install Lynx browser: `sudo apt-get install lynx`
 
-Install Lynx browser:
-`sudo apt-get install lynx`
+![A satisfied customer hacking into wolfOS](wolfos-de.jpg "A satisfied customer hacking into wolfOS")
 
-
-## Running
-
-Run wolfOS:
-`lynx wolfos-legacy/index.html`
+## Running wolfOS
+- Navigate to the `wolfos-legacy` directory
+- Run `lynx /index.html`
 
 
 ## Improve the Lynx UI for better user experience at exhibitions
 
-To modify the Raspberry Pi's font size to fit your screen size:
+Modify the Raspberry Pi's font size to fit your screen size:
 `sudo dpkg-reconfigure console-setup`
 and follow the instructions.
 
@@ -41,6 +37,8 @@ To shrink the Lynx footer nav bar from 3 lines to 1:
 
 To remove the final line of the Lynx footer bar:
 - Cover with a piece of tape or small sign
+
+![wolfOS fends off a skilled hacker](wolfos-tr.jpg "wolfOS fends off a skilled hacker")
 
 -------------------------------------------
 
