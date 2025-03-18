@@ -4,12 +4,12 @@
 
 Originally made for Hal-Con 2017, this version was updated for Spring Geequinox 2018.
 
-Install on a Raspberry Pi for the classic convention experience, or emulate on a modern Mac using the Terminal.
+Install on a Raspberry Pi for the classic convention experience, or run on Mac/Windows/Linux with the Lynx browser.
 
 ## Installation
 
 Clone the repo:
-`git clone https://github.com/mirthturtle/wolfOS-legacy.git`
+`git clone https://github.com/mirthturtle/wolfOS.git`
 
 ### MacOS
 - Install [Homebrew](https://brew.sh/)
@@ -18,11 +18,15 @@ Clone the repo:
 ### Raspberry Pi
 - Install Lynx browser: `sudo apt-get install lynx`
 
+### Windows
+- Install from the [Lynx website](https://invisible-island.net/lynx/)
+- Open `index.html` with Lynx
+
 ![A satisfied customer hacking into wolfOS](wolfos-de.jpg "A satisfied customer hacking into wolfOS")
 
 ## Running wolfOS
-- Navigate to the `wolfos-legacy` directory
-- Run `lynx /index.html`
+- Navigate to the `wolfos` directory
+- Run `lynx index.html`
 
 
 ## Improve the Lynx UI for better user experience at exhibitions
